@@ -1,0 +1,13 @@
+name: firstplugin
+main: io.github.bat23.firstplugin.firstplugin
+version: 0.0.63
+commands:
+  batwand:
+    description: This command gives you a wizarding wand.
+    usage: /batwand
+  batspellbook:
+    description: This command gives you a book of spells.
+    usage: /batspellbook
+  batgun:
+    description: This command gives you a gun.
+    usage: /batgun
